@@ -41,4 +41,4 @@ are.**
 ## Credits
 
 The original source code was obtained from
-[Cexx.org](http://www.cexx.org/loveletter.htm) & [sreeman-tech.io](https://www.sreeman-tech.github.io/)and formatted by them.
+[Cexx.org](http://www.cexx.org/loveletter.htm) & [sreeman-tech.io](https://sreeman-tech.github.io/)and formatted by them.
